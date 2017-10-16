@@ -1,5 +1,4 @@
-title: Simple C# template
-
+title: No votable
 plan:
-  - title: C# Snippet
-    statement: statement.md
+- title: C# Snippet
+  statement: statement.md
